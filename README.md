@@ -7,13 +7,15 @@
 - Runchen Tao
 - Xueli Yang
 
+## Project Dataset selection
+[Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)
+
 ## Project Objective
 **Option A**: 
 - Design a program that will predict the next item a user will re-purchase.
 
 **Option B**: 
 - Design a program that will seperate customer into different segments and classify a new customer into a know segment.
-
 
 ## Possible Text Mining Algorithem Options
 1. K-Means
