@@ -16,7 +16,7 @@
     - Instacart can use our project result to recommand products to its customer
 
 **Option B**: 
-- Design a program that will seperate customer into different segments and classify a new customer into a know segment.
+- Design a program that will seperate customer into different segments and classify a new customer into a known segment.
     - Instacart can understand their customer better by customer segmentation. 
 When a new customer join instacart and place an order, 
 our program will help instacart classify this customer into existing segment.
