@@ -7,7 +7,7 @@
 - Runchen Tao
 - Xueli Yang
 
-## Project Dataset selection
+## Project Dataset Selection
 [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)
 
 ## Project Objective
