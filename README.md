@@ -13,9 +13,14 @@
 ## Project Objective
 **Option A**: 
 - Design a program that will predict the next item a user will re-purchase.
+- Purpose/Use: Instacart can use our project result to recommand products to its customer
 
 **Option B**: 
 - Design a program that will seperate customer into different segments and classify a new customer into a know segment.
+- Purpose/Use: Instacart can understand their customer better by customer segmentation. 
+When a new customer join instacart and place an order, 
+our program will help instacart classify this customer into existing segment.
+Instacart can push differenct ads or recommendations to user based on different customer segments.
 
 ## Possible Text Mining Algorithem Options
 1. K-Means
