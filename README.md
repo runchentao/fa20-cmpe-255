@@ -10,32 +10,4 @@
 ## Project Dataset Selection
 [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)
 
-## Project Objective
-**Option A**: 
-- Design a program that will predict the next item a user will re-purchase.
-    - Instacart can use our project result to recommand products to its customer
-
-**Option B**: 
-- Design a program that will seperate customer into different segments and classify a new customer into a known segment.
-    - Instacart can understand their customer better by customer segmentation. 
-When a new customer join instacart and place an order, 
-our program will help instacart classify this customer into existing segment.
-Instacart can push differenct ads or recommendations to its user based on different customer segments.
-
-## Possible Text Mining Algorithem Options
-1. K-Means
-    - "unsupervised learning algorithm that slove clustering problems. 
-Define k centroids which are used to label new data.
-Classical way for text categorization."
-
-2. Naive Bayes Classifier
-    - "Simple probabilistic algorithm for the classification tasks."
-
-3. K-Nearest Neighbor
-    - "Simple algorithm that stores all existing data objects and classifies the new data objects based on a similarity measure."
-    
-4. Support Vector Machines
-    - "Draw lines that separate the groups according to some patterns. For classification problems and outliers detections." 
-    
-5. Decision Tree
-    - "Predicts the value of a target variable based on several input variables. For classification or decision making."
+## [Project Log](#)
